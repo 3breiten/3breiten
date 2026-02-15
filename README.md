@@ -26,7 +26,7 @@ Currently pursuing a **Mg. in Cybersecurity** (Universidad de Murcia, Spain).
 - **CCNP Security** — Cisco Systems *(2024)*
 - **Lic. en Administración** — Universidad Kennedy *(2017 - 2023)*
 - **Diploma in Information Security** — UTN *(2018)*
-- **Network Security** — Firewalls, VPN, IPS, NAC, endpoint protection
+- **IT Security 360°**
 
 </td>
 <td width="140" align="center">
