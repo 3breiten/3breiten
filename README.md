@@ -10,17 +10,17 @@ Currently pursuing a **Master's degree in Cybersecurity** (Universidad de Murcia
 
 ### About Me
 
-- SME Cisco ISE at **Boehringer Ingelheim** — global NAC architecture across 150+ countries
-- Former **Security Architect** at **Cisco** — security solutions design and implementation
-- Former **Head Delivery Manager** at **Insside Ciberseguridad** — leading Blue Team, Red Team, GRC, DEV & IDM operations
 - Creator of **Farosint**, an OSINT & Attack Surface Analysis Framework
+- SME Cisco ISE at **Boehringer Ingelheim** — global NAC architecture across 150+ countries
+- Former **Security Architect** at **Cisco**
+- 10+ years in IT & Cybersecurity management roles across multinational companies
 - Based in Buenos Aires, Argentina
 
 ### Certifications & Education
 
+![MSc Cybersecurity](https://img.shields.io/badge/MSc_Cybersecurity-8E44AD?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![CCNP Security](https://img.shields.io/badge/CCNP_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-2C3E50?style=for-the-badge&logo=hackthebox&logoColor=white)
-![ITIL](https://img.shields.io/badge/ITIL_Foundation_V3-6C3483?style=for-the-badge&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-2C3E50?style=for-the-badge&logoColor=white)
 
 - **MSc Cybersecurity** — Universidad de Murcia, Spain *(2025 - present)*
 - **BA in Business Administration** — Universidad Kennedy *(2017 - 2023)*
