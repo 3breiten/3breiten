@@ -18,13 +18,22 @@ Currently pursuing a **Mg. in Cybersecurity** (Universidad de Murcia, Spain).
 
 ### Certifications & Education
 
-<img align="right" src="ccnp_security.jpg" alt="CCNP Security" width="120">
+<table>
+<tr>
+<td>
 
-- **CCNP Security** — Cisco Systems
 - **Mg. Cybersecurity** — Universidad de Murcia, Spain *(2025 - present)*
+- **CCNP Security** — Cisco Systems *(2024)*
 - **Lic. en Administración** — Universidad Kennedy *(2017 - 2023)*
 - **Diploma in Information Security** — UTN *(2018)*
 - **Network Security** — Firewalls, VPN, IPS, NAC, endpoint protection
+
+</td>
+<td width="140" align="center">
+<img src="ccnp_security.jpg" alt="CCNP Security" width="120">
+</td>
+</tr>
+</table>
 
 ### Tech Stack
 
