@@ -18,10 +18,12 @@ Currently pursuing a **Mg. in Cybersecurity** (Universidad de Murcia, Spain).
 
 ### Certifications & Education
 
-![Mg. Cybersecurity](https://img.shields.io/badge/Mg._Cybersecurity-8E44AD?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-2C3E50?style=for-the-badge&logoColor=white)
-
-<img src="ccnp_security.jpg" alt="CCNP Security" width="100">
+<p>
+  <img src="ccnp_security.jpg" alt="CCNP Security" width="80" align="top">
+  <img src="https://img.shields.io/badge/Mg._Cybersecurity-8E44AD?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Mg. Cybersecurity">
+  <img src="https://img.shields.io/badge/Lic._Administración-1B5E20?style=for-the-badge&logoColor=white" alt="Lic. Administración">
+  <img src="https://img.shields.io/badge/Network_Security-2C3E50?style=for-the-badge&logoColor=white" alt="Network Security">
+</p>
 
 - **Mg. Cybersecurity** — Universidad de Murcia, Spain *(2025 - present)*
 - **BA in Business Administration** — Universidad Kennedy *(2017 - 2023)*
