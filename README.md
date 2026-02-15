@@ -18,7 +18,7 @@ Currently pursuing a **Mg. in Cybersecurity** (Universidad de Murcia, Spain).
 
 ### Certifications & Education
 
-![Mg. Cybersecurity](https://img.shields.io/badge/MSc_Cybersecurity-8E44AD?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Mg. Cybersecurity](https://img.shields.io/badge/Mg._Cybersecurity-8E44AD?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![CCNP Security](https://img.shields.io/badge/CCNP_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Network Security](https://img.shields.io/badge/Network_Security-2C3E50?style=for-the-badge&logoColor=white)
 
