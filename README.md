@@ -4,7 +4,7 @@
 
 IT & Cybersecurity leader with 20+ years of experience in multinational environments. Specialized in network security architecture, team management, and building tools that make security operations more efficient.
 
-Currently pursuing a **Master's degree in Cybersecurity** (Universidad de Murcia, Spain).
+Currently pursuing a **Mg. in Cybersecurity** (Universidad de Murcia, Spain).
 
 ---
 
@@ -12,30 +12,28 @@ Currently pursuing a **Master's degree in Cybersecurity** (Universidad de Murcia
 
 - Creator of **Farosint**, an OSINT & Attack Surface Analysis Framework
 - SME Cisco ISE at **Boehringer Ingelheim** — global NAC architecture across 150+ countries
-- Former **Security Architect** at **Cisco**
+- Ex **Security Architect** at **Cisco**
 - 10+ years in IT & Cybersecurity management roles across multinational companies
 - Based in Buenos Aires, Argentina
 
 ### Certifications & Education
 
-![MSc Cybersecurity](https://img.shields.io/badge/MSc_Cybersecurity-8E44AD?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Mg. Cybersecurity](https://img.shields.io/badge/MSc_Cybersecurity-8E44AD?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![CCNP Security](https://img.shields.io/badge/CCNP_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Network Security](https://img.shields.io/badge/Network_Security-2C3E50?style=for-the-badge&logoColor=white)
 
-- **MSc Cybersecurity** — Universidad de Murcia, Spain *(2025 - present)*
+- **Mg. Cybersecurity** — Universidad de Murcia, Spain *(2025 - present)*
 - **BA in Business Administration** — Universidad Kennedy *(2017 - 2023)*
 - **Diploma in Information Security** — UTN *(2018)*
 
 ### Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-FF6F00?style=flat-square&logoColor=white)
 
 ### Projects
 
