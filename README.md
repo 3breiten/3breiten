@@ -58,3 +58,7 @@ Currently pursuing a **Mg. in Cybersecurity** (Universidad de Murcia, Spain).
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:breitenmariano@gmail.com)
 
 <!-- Updated 2026 -->
+
+## Tools
+
+- [Farosint](https://github.com/3breiten/Farosint) - OSINT & Attack Surface Analysis Framework
